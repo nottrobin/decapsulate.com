@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>Decapsulate</title>
+    <link>https://decapsulate.com</link>
+    <description>Unpacking life</description>
+    <generator>Zola</generator>
+    <language>en</language>
+    <copyright>Namtao Productions</copyright>
+    <managingEditor>Namto Productions</managingEditor>
+    <webMaster>Namtao Productions</webMaster>
+    <pubDate />
+    <lastBuildDate />
+    <image>
+      <url>https://decapsulate.com/logo.jpg</url>
+      <title>Decapsulate Logo</title>
+      <link>https://decapsulate.com</link>
+    </image>
+
+    <atom:link href="https://decapsulate.com/decapsulate-mp3.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Fri, 30 Aug 2024 00:00:00 +0000</lastBuildDate>
+
+    <itunes:author>Namtao Productions</itunes:author>
+    <itunes:category text="Technology" />
+    <itunes:image href="https://decapsulate.com/logo.jpg" />
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Namtao Productions</itunes:name>
+      <itunes:email>contact@namtao.com</itunes:email>
+    </itunes:owner>
+    <itunes:subtitle>Unpacking life</itunes:subtitle>
+    <itunes:summary>Unpacking life</itunes:summary>
+    <itunes:keywords>Non-fiction, technology</itunes:keywords>
+    <item>
+      <title>On Writing &amp; Mental Health</title>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      <author>{ config.author }}</author>
+      <link>https://decapsulate.com/episodes/1/</link>
+      <enclosure url="https://decapsulate.com/1.mp3" length="4350" type="audio/mpeg" />
+      <guid>https://decapsulate.com/1.mp3</guid>
+      <description xml:base="https://decapsulate.com/episodes/1/">&lt;p&gt;&lt;audio controls src=&quot;&#x2F;1.mp3&quot;&gt;&lt;&#x2F;audio&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Tris and Robin introduce themselves and share tips for writing podcasts, blogs, videos and how to survive inside a creative brain.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;book-chapters&quot;&gt;📖 CHAPTERS&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;00:00:00 Introductions&lt;&#x2F;li&gt;
+&lt;li&gt;00:01:27 Why are we here &amp;amp; defining “decapsulate”&lt;&#x2F;li&gt;
+&lt;li&gt;00:05:04 Podcasts are great!&lt;&#x2F;li&gt;
+&lt;li&gt;00:11:15 From Podcasting to blogging&lt;&#x2F;li&gt;
+&lt;li&gt;00:16:20 Wait, what is this podcast all about?&lt;&#x2F;li&gt;
+&lt;li&gt;00:24:40 Blogging II: Electric boogaloo&lt;&#x2F;li&gt;
+&lt;li&gt;00:38:40 Writing distractions&lt;&#x2F;li&gt;
+&lt;li&gt;00:53:40 Bottom-up thinking&lt;&#x2F;li&gt;
+&lt;li&gt;01:08:00 Decapsulate upload schedule discussion&lt;&#x2F;li&gt;
+&lt;li&gt;01:13:30 Conclusion&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;link-links&quot;&gt;🔗 LINKS&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;ours&quot;&gt;Ours&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;robinwinslow.uk&quot;&gt;https:&#x2F;&#x2F;robinwinslow.uk&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;noboilerplate.org&quot;&gt;https:&#x2F;&#x2F;noboilerplate.org&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lostterminal.com&quot;&gt;https:&#x2F;&#x2F;lostterminal.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;modemprometheus.com&quot;&gt;https:&#x2F;&#x2F;modemprometheus.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;phosphenecatalogue.com&quot;&gt;https:&#x2F;&#x2F;phosphenecatalogue.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;external&quot;&gt;External&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.relay.fm&#x2F;cortex&quot;&gt;https:&#x2F;&#x2F;www.relay.fm&#x2F;cortex&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;@CGPGrey&quot;&gt;https:&#x2F;&#x2F;www.youtube.com&#x2F;@CGPGrey&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nightvalepresents.com&#x2F;startwiththis&quot;&gt;https:&#x2F;&#x2F;www.nightvalepresents.com&#x2F;startwiththis&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;pluralistic.net&#x2F;&quot;&gt;https:&#x2F;&#x2F;pluralistic.net&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;adult-credits&quot;&gt;🧑 CREDITS&lt;&#x2F;h2&gt;
+&lt;p&gt;Decapsulate is a NAMTAO Production (namtao.com)&lt;&#x2F;p&gt;
+&lt;p&gt;It is hosted by:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tristram Oaten (&lt;a href=&quot;https:&#x2F;&#x2F;mastodon.social&#x2F;@0atman&quot;&gt;https:&#x2F;&#x2F;mastodon.social&#x2F;@0atman&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
+&lt;li&gt;Robin Winslow (&lt;a href=&quot;https:&#x2F;&#x2F;union.place&#x2F;@nottrobin&quot;&gt;https:&#x2F;&#x2F;union.place&#x2F;@nottrobin&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;This work is BrainMade (&lt;a href=&quot;https:&#x2F;&#x2F;brainmade.org&quot;&gt;https:&#x2F;&#x2F;brainmade.org&lt;&#x2F;a&gt;)&lt;&#x2F;p&gt;
+</description>
+
+
+
+      <itunes:author>Namtao Productions</itunes:author>
+
+
+      <itunes:image href="https://decapsulate.com/large.jpg" />
+      <itunes:duration>4350</itunes:duration> <!-- we should compute this -->
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:subtitle>Tris and Robin introduce themselves and share tips for writing podcasts, blogs, videos and how to survive inside a creative brain.</itunes:subtitle>
+      <itunes:summary>Tris and Robin introduce themselves and share tips for writing podcasts, blogs, videos and how to survive inside a creative brain.</itunes:summary>
+      <itunes:keywords>technology</itunes:keywords>
+
+    </item>
+
+  </channel>
+</rss>
